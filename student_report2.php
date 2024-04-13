@@ -10,7 +10,7 @@
 			<br><br>
 		</td>
 		<td style="width:800px;font-size:12px;line-height:1mm;text-align:center" >
-		<p>Republic of the Philippines</p>
+		<p>Jimma University</p>
 		<p>Department of Education</p>
 		<p>NEGROS ISLAND REGION</p>
 		<p>Division of Silay City</p>
